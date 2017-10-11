@@ -13,7 +13,7 @@ Download the <a href="https://github.com/maidsafe/safe_browser/releases">Encrypt
 # Step 3
 
 Open the Browser & make an account with the Invitation Token that I sent you on Facebook
-*If it gives an error, then login to <a href="http://safenetforum.org">safenetforum.org</a> with the user/pass I sent you, and then register your token at <a href="http://invite.maidsafe.net">invite.maidsafe.net</a>
+<br>*If it gives an error, then login to <a href="http://safenetforum.org">safenetforum.org</a> with the user/pass I sent you, and then register your token at <a href="http://invite.maidsafe.net">invite.maidsafe.net</a>
 
 # Step 4
 
@@ -25,7 +25,7 @@ Use the Website Uploader software to upload it to the Encrypted Network
 
 # Step 6
 
-Visit the URL that it gives you, like "safe://yourWebsite.yourID" and view the TestAuth page.
+With the Encrypted Browser, visit the URL that it gives you, like "safe://yourWebsite.yourID" to view the TestAuth page.
 
 # Step 7 -- Final!!
 
