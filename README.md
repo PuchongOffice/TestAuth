@@ -26,4 +26,4 @@ With the Encrypted Browser, visit the URL that it gives you, like "safe://yourWe
 
 Click the "Authorize" button and if it authorizes and shows the "SUCCESS!!!" message, you pass!! Collect $$ payment!!
 
-**Now you know the development flow. When you work on HTML files, you upload them in this way to test. Now you are ready to work on our larger projects, using this system, like <a href="https://github.com/PuchongOffice/JS-Job-1">this one here</a>.Great job!**
+**Now you know the development flow. When you work on HTML files, you upload them in this way to test. Now you are ready to work on our larger projects, using this system, like <a href="https://github.com/PuchongOffice/JS-Job-1">this one here</a>. Great job!**
